@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#buttons {
+    text-align: center;
+}
+
+#buttons form {
+    display: inline-block;
+}
+
+#content input[type="submit"].return-button {
+    background: #8d8d8d;
+    box-shadow: 2px 2px 0px 0px #6f6f6f;
+    margin-right: 10px;
+}

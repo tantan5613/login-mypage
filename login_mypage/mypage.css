@@ -1,0 +1,15 @@
+#content .mydata-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#content .mydata-wrap img {
+    width: 25%;
+    padding: 0 0 5px;
+    border: 1px solid #999;
+}
+#content #form-wrap .mydata-wrap p {
+    width: 70%;
+    line-height: 2em;
+}

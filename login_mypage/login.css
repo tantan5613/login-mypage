@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#form-wrap {
+    width: 350px;
+    margin: 0 auto;
+}
+
+#content #form-wrap p {
+    margin-top: 25px;
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+}
